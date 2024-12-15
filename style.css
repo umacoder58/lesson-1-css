@@ -1,0 +1,29 @@
+/* global css */
+*{
+  font-size: 30px;
+   font-weight:500px;
+}
+/* External css */
+<h3{
+    color:blanchedalmond;
+}
+
+/* element selector */
+h4{
+    color: rgb(204, 129, 17);
+}
+
+/* class selector */
+.myclass{
+    color: rgb(73, 122, 196);
+}
+
+/* id selector */
+#myid{
+    color: rgb(158, 23, 75);
+}
+
+/* group selector */
+<h5,P{
+    color: rgb(204, 129, 17);
+}
